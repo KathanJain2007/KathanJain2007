@@ -11,7 +11,7 @@ A multi-agent pipeline that turns course notes (PDF/DOCX) into a complete exam p
 An Android expense tracker that builds itself from bank and UPI SMS alerts and learns your categories so tagging becomes automatic. Includes bill splitting with WhatsApp/UPI reminders, insights charts, Keystore-backed encrypted backups and 47 tests. Fully offline.
 
 ### [Shelvo (GridPoint)](https://github.com/KathanJain2007/CodeMaxxers-GridPoint) · JavaScript · Python · Hackathon
-A warehouse location optimizer that finds where to place fulfilment centres using Haversine distances and the Weiszfeld algorithm. Cuts delivery cost by 31.9% on a real Bengaluru demand dataset, with scenario planning, demand-shock testing and an AI assistant. Built with Team CodeMaxxers.
+A warehouse location optimizer that finds where to place fulfilment centres using Haversine distances and the Weiszfeld algorithm. Cuts delivery cost by 31.9% on a real Bengaluru demand dataset, with scenario planning, demand-shock testing and an AI assistant. Built with Team CodeMaxxers. **[Live demo →](https://shelvo-codemaxxers.netlify.app)**
 
 ## 🛠️ Tech I work with
 
