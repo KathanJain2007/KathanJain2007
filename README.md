@@ -1,5 +1,5 @@
 <a href="https://github.com/KathanJain2007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=58A6FF&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Kathan+Jain+%F0%9F%91%8B;CSE+%40+BMSCE+Bengaluru;I+build+AI+agents+%26+real-world+apps" alt="Hi, I'm Kathan Jain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=58A6FF&vCenter=true&width=820&height=60&lines=Hi%2C+I'm+Kathan+Jain+%F0%9F%91%8B;CSE+%40+BMSCE+Bengaluru;I+build+real-world+apps+%26+AI+agents" alt="Hi, I'm Kathan Jain" />
 </a>
 
 ---
